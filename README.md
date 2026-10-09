@@ -4,7 +4,7 @@
 
 This repository presents my implementation of a **Temporal Fusion Transformer (TFT)** for the CFM 2024 challenge *High-Frequency Market Data: Could You Guess the Stock?* on ChallengeData ENS.
 
-This model achieved **5th place out of 170 teams in the final competition ranking in December 2024**.
+This model achieved **5th place out of more than 170 teams in the final competition ranking in December 2024**.
 
 Please note that the preprocessing section has been intentionally omitted from this repository.
 
