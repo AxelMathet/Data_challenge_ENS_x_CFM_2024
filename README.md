@@ -1,5 +1,3 @@
-# Data_challenge_ENS_x_CFM_2024
-
 # High-Frequency Market Data: Could You Guess the Stock?
 
 ## Overview
